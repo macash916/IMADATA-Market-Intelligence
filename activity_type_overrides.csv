@@ -1,0 +1,41 @@
+activity_code,activity_name,competitor_type_final
+541920,Photography and video recording services,Indirect
+541120,Notaries public,Exclude
+541430,Graphic design,Indirect
+541380,Testing laboratories,Direct
+541610,Management consulting services,Direct
+541620,Environmental consulting services,Indirect
+541110,Law firms,Exclude
+541510,Computer systems design and related services,Direct
+541211,Accounting and auditing services,Exclude
+541941,Pet veterinary services provided by the private sector,Exclude
+541810,Advertising agencies,Indirect
+541330,Engineering services,Direct
+541820,Public relations agencies,Indirect
+541890,Signage and other advertising services,Indirect
+541942,Veterinary services for pets provided by the public sector,Exclude
+541190,Support services for carrying out legal procedures,Exclude
+541690,Other scientific and technical consulting services,Direct
+541410,Interior design and decoration,Indirect
+541340,Drawing services,Indirect
+541310,Architectural services,Indirect
+541910,Market research and public opinion survey services,Direct
+541840,Media representation agencies,Indirect
+541360,Geophysical survey services,Indirect
+541711,"Scientific research and development services in natural and exact sciences, engineering, and life sciences, provided by the private sector",Indirect
+541990,"Other professional, scientific and technical services",Indirect
+541420,Industrial design,Indirect
+541721,"Scientific research and development services in social sciences and humanities, provided by the private sector",Indirect
+541370,Map making services,Indirect
+541219,Other accounting-related services,Exclude
+541320,Landscape architecture and urban planning services,Indirect
+541350,Building inspection services,Indirect
+541722,"Scientific research and development services in social sciences and humanities, provided by the public sector",Indirect
+541712,"Scientific research and development services in natural and exact sciences, engineering, and life sciences, provided by the public sector",Indirect
+541830,Media buying agencies at the client's request,Indirect
+541870,Distribution of advertising material,Indirect
+541850,Advertising agencies,Indirect
+541490,Fashion design and other specialized designs,Exclude
+541930,Translation and interpretation services,Indirect
+541860,Direct mail agencies,Indirect
+541943,Veterinary services for livestock provided by the private sector,Exclude
