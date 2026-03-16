@@ -13,8 +13,8 @@ business_count_by_*.csv
 
 # ── Generated outputs too large for version control ───────────────────────────
 outputs/cleaned_customers.csv
-outputs/customer_segments.csv
 outputs/competitors_filtered.csv
+# customer_segments.csv and state_mexico_cached.json are committed (needed by app)
 
 # ── Local GeoJSON assets (fetched at runtime via requests.get) ────────────────
 mexico-geojson-main/
